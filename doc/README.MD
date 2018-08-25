@@ -3,14 +3,6 @@
 ## 环境
 ### hadoop-2.7.3、spark-2.3.1-bin-hadoop2.7、python2.7
 
-## 整体清洗流
-### todo
-
-## 数据源
-### _[工商](./saic.MD)_
-### TODO 其他
-
-
 ## 目录结构说明
 ###  _[目录结构说明](./tree_proj.MD)_
 
