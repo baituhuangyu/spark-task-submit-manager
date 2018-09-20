@@ -1,0 +1,23 @@
+# maven
+export MAVEN_HOME=/usr/app/apache-maven-3.5.0
+export PATH=$PATH:$MAVEN_HOME/bin
+
+
+# scala 
+export SCALA_HOME=/opt/scala-2.11.8
+export PATH=$PATH:$SCALA_HOME/bin
+
+
+# go
+export PATH=/opt/go/bin:$PATH
+export GOROOT=/opt/go
+export GOPATH=$HOME/goProject
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOPATH/bin
+
+# spark
+export SPARK_HOME=/usr/app/spark/spark-2.0.1-bin-hadoop2.7
+export PATH=$PATH:$SPARK_HOME/bin
+
+export PYTHONPATH=$SPARK_HOME/python/:$SPARK_HOME/python/lib/py4j-0.10.3-src.zip:$PYTHONPATH
+
